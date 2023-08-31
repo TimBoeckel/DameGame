@@ -1,1 +1,1 @@
-# MuehleGame
+# German Dame Game
